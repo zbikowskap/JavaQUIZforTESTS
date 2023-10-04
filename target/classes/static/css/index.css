@@ -40,7 +40,7 @@ body {
 }
 
 .text-box {
-    width: 120%;
+    width: 50%;
 	grid-area: text-box;
 	display: flex;
 	flex-direction: column;
